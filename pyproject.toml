@@ -1,0 +1,12 @@
+[project]
+name = "kenricksuyanto-investmentswarm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=3.1.0",
+    "google-adk>=1.27.1",
+    "python-dotenv>=1.2.2",
+    "yfinance>=1.2.0",
+]
